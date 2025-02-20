@@ -1,8 +1,34 @@
-<h2 align="center">Hi 👋! My name is Maram Basyouni</h2>
+<h2 align="center">
+  <span id="animated-text">Hi 👋! My name is Maram Basyouni</span>
+</h2>
+
+<style>
+  @keyframes fadeInOut {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+
+  @keyframes glow {
+    0% { text-shadow: 0 0 5px #ffeb3b, 0 0 10px #ffeb3b; }
+    50% { text-shadow: 0 0 15px #ffeb3b, 0 0 25px #ffeb3b; }
+    100% { text-shadow: 0 0 5px #ffeb3b, 0 0 10px #ffeb3b; }
+  }
+
+  #animated-text {
+    animation: fadeInOut 3s infinite;
+  }
+
+  .glowing-text {
+    font-weight: bold;
+    color: #ffeb3b;
+    animation: glow 1.5s infinite alternate;
+  }
+</style>
 
 ###
 
-<h3 align="left">Flutter Developer</h3>
+<h3 align="left" class="glowing-text">I am a Flutter Developer</h3>
 
 ###
 
@@ -62,4 +88,3 @@
 <h3 align="left">My Activities✨:</h3>
 
 ###
-
