@@ -1,38 +1,16 @@
 <h2 align="center">
-  <span id="animated-text">Hi 👋! My name is Maram Basyouni</span>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+👋!+My+name+is+Maram+Basyouni" alt="Typing Animation" style="text-shadow: 2px 2px 10px white;">
 </h2>
 
-<style>
-  @keyframes fadeInOut {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
+<img align="right" height="150" src="https://i.pinimg.com/originals/14/a6/93/14a69305d33439df7fb4efc6f94b5308.gif" />
 
-  @keyframes glow {
-    0% { text-shadow: 0 0 5px #ffeb3b, 0 0 10px #ffeb3b; }
-    50% { text-shadow: 0 0 15px #ffeb3b, 0 0 25px #ffeb3b; }
-    100% { text-shadow: 0 0 5px #ffeb3b, 0 0 10px #ffeb3b; }
-  }
-
-  #animated-text {
-    animation: fadeInOut 3s infinite;
-  }
-
-  .glowing-text {
-    font-weight: bold;
-    color: #ffeb3b;
-    animation: glow 1.5s infinite alternate;
-  }
-</style>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=400&lines=I+am+a+Flutter+Developer" alt="Glowing Text" style="font-style: italic; text-shadow: 2px 2px 10px #FF69B4;">
+</h3>
 
 ###
 
-<h3 align="left" class="glowing-text">I am a Flutter Developer</h3>
-
-###
-
-<h3 align="left">GitHub status📝:</h3>
+<h3 align="left">🚀 My GitHub Stats 📝:</h3>
 
 ###
 
@@ -46,7 +24,7 @@
 
 ###
 
-<h2 align="left">Flutter Full-Stack Development📲:</h2>
+<h2 align="left">🛠 Flutter Full-Stack Development📲:</h2>
 
 ###
 
@@ -66,11 +44,7 @@
 
 ###
 
-<h3 align="left">To Contact with me:</h3>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/14/a6/93/14a69305d33439df7fb4efc6f94b5308.gif"  />
+<h3 align="left">📩 Contact Me:</h3>
 
 ###
 
@@ -85,6 +59,16 @@
 
 ###
 
-<h3 align="left">My Activities✨:</h3>
+<h3 align="center">💖 Follow Me on GitHub 💖</h3>
+
+<p align="center">
+  <a href="https://github.com/marambasyone27">
+    <img src="https://img.shields.io/github/followers/marambasyone27?label=Follow&style=social" alt="GitHub Follow">
+  </a>
+</p>
+
+###
+
+<h3 align="left">🌟 My Activities:</h3>
 
 ###
