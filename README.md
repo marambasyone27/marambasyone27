@@ -5,7 +5,7 @@
 <img align="right" height="180" src="https://i.pinimg.com/originals/14/a6/93/14a69305d33439df7fb4efc6f94b5308.gif" alt="Coding Animation" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&width=450&lines=I+am+A Flutter+Developer+%7C+CS+Student+%7C+UI+Enthusiast" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&width=450&lines=I+am+A+Flutter+Developer+%7C+CS+Student+%7C+UI+Enthusiast" alt="Typing Animation">
 </h3>
 
 ###
@@ -74,10 +74,6 @@
 
 ###
 
-
-
-###
-
 <h3 align="left">📚 Currently Learning</h3>
 
 ###
@@ -111,20 +107,9 @@
 
 ###
 
-<h3 align="center">⚡ Fun Fact</h3>
-
-<p align="center">
-"أنا لا أقوم فقط بكتابة الأكواد، بل أصنع تجارب مستخدم ساحرة!"
-</p>
-
-###
-
 <h3 align="center">💖 Support My Work</h3>
 
 <div align="center">
-  <a href="https://github.com/marambasyone27?tab=repositories">
-    <img src="https://img.shields.io/github/stars/marambasyone27?label=GitHub%20Stars&style=social" alt="Stars"/>
-  </a>
   <a href="https://github.com/marambasyone27">
     <img src="https://img.shields.io/github/followers/marambasyone27?label=Follow&style=social" alt="Followers"/>
   </a>
