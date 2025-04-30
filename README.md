@@ -5,7 +5,7 @@
 <img align="right" height="180" src="https://i.pinimg.com/originals/14/a6/93/14a69305d33439df7fb4efc6f94b5308.gif" alt="Coding Animation" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&width=450&lines=I am A Flutter+Developer+%7C+CS+Student+%7C+UI+Enthusiast" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&width=450&lines=I+am+A Flutter+Developer+%7C+CS+Student+%7C+UI+Enthusiast" alt="Typing Animation">
 </h3>
 
 ###
@@ -74,15 +74,7 @@
 
 ###
 
-<h3 align="left">📌 Featured Projects</h3>
 
-###
-
-<div align="left">
-  <p>🔹 <a href="رابط-المشروع-1"><b>Project 1</b></a> - وصف مختصر للمشروع الأول</p>
-  <p>🔹 <a href="رابط-المشروع-2"><b>Project 2</b></a> - وصف مختصر للمشروع الثاني</p>
-  <p>🔹 <a href="رابط-المشروع-3"><b>Project 3</b></a> - وصف مختصر للمشروع الثالث</p>
-</div>
 
 ###
 
