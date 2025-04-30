@@ -5,7 +5,7 @@
 <img align="right" height="180" src="https://i.pinimg.com/originals/14/a6/93/14a69305d33439df7fb4efc6f94b5308.gif" alt="Coding Animation" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&width=450&lines=Flutter+Developer+%7C+CS+Student+%7C+UI+Enthusiast" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FFFFFF&center=true&vCenter=true&width=500&lines=I+am+a+Flutter+Developer;CS+Student" alt="Typing Animation" style="font-style: italic; text-shadow: 2px 2px 10px #FF69B4;">
 </h3>
 
 ###
