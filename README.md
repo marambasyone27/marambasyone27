@@ -5,7 +5,7 @@
 <img align="right" height="180" src="https://i.pinimg.com/originals/14/a6/93/14a69305d33439df7fb4efc6f94b5308.gif" alt="Coding Animation" />
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&width=450&lines=I+am+A+Flutter+Developer+%7C+CS+Student+%7C+UI+Enthusiast" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=FF69B4&center=true&vCenter=true&width=450&lines=Flutter+Developer+%7C+CS+Student+%7C+UI+Enthusiast" alt="Typing Animation">
 </h3>
 
 ###
@@ -97,10 +97,10 @@
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
   </a>
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+  <a href="https://www.facebook.com/maram.basyone.7" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35"/>
   </a>
-  <a href="https://wa.me/yourphonenumber" target="_blank">
+  <a href="https://wa.me/01032814683" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35"/>
   </a>
 </div>
