@@ -81,7 +81,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Advanced_Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/State_Management-0175C2?style=for-the-badge&logo=dart&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/UI/UX_Design-FF6B6B?style=for-the-badge&logo=figma&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="30" alt="Firebase"/>
 </div>
 
 ###
