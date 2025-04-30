@@ -107,7 +107,7 @@
 
 ###
 
-<h3 align="center">💖 Support My Work</h3>
+<h3 align="center">💖Follow me on Github💖</h3>
 
 <div align="center">
   <a href="https://github.com/marambasyone27">
