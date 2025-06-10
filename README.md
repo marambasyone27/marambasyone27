@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+🥰!+I'm+Maram+Basyouni" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi+🥰+my Name is +Maram+Basyouni" alt="Typing Animation">
 </h2>
 
 <img align="right" height="180" src="https://i.pinimg.com/originals/14/a6/93/14a69305d33439df7fb4efc6f94b5308.gif" alt="Coding Animation" />
